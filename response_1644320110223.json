@@ -1,0 +1,835 @@
+{
+  "version": "0.0.1",
+  "statusCode": 200,
+  "errorCode": -1,
+  "errorMessage": null,
+  "successMessage": null,
+  "data": [
+    {
+      "affiliationCourseId": 24,
+      "courseId": 1,
+      "courseName": "JEE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/JEE.PNG",
+      "subjectList": [
+        {
+          "subjectId": 1,
+          "subjectName": "Physics",
+          "isSelected": true,
+          "bgColor": "#2a9d8f",
+          "affiliationSubjectId": 96
+        },
+        {
+          "subjectId": 2,
+          "subjectName": "Maths",
+          "isSelected": true,
+          "bgColor": "#003566",
+          "affiliationSubjectId": 97
+        },
+        {
+          "subjectId": 3,
+          "subjectName": "Chemistry",
+          "isSelected": true,
+          "bgColor": "#ee6c4d",
+          "affiliationSubjectId": 98
+        }
+      ]
+    },
+    {
+      "affiliationCourseId": 25,
+      "courseId": 2,
+      "courseName": "9/10 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "subjectList": [
+        {
+          "subjectId": 4,
+          "subjectName": "Science",
+          "isSelected": true,
+          "bgColor": "#8e9aaf",
+          "affiliationSubjectId": 99
+        },
+        {
+          "subjectId": 2,
+          "subjectName": "Maths",
+          "isSelected": true,
+          "bgColor": "#003566",
+          "affiliationSubjectId": 100
+        },
+        {
+          "subjectId": 10,
+          "subjectName": "Mental Ability",
+          "isSelected": true,
+          "bgColor": "#0288d1",
+          "affiliationSubjectId": 101
+        },
+        {
+          "subjectId": 11,
+          "subjectName": "Social Science",
+          "isSelected": true,
+          "bgColor": "#540d6e",
+          "affiliationSubjectId": 102
+        },
+        {
+          "subjectId": 14,
+          "subjectName": "Hindi",
+          "isSelected": true,
+          "bgColor": null,
+          "affiliationSubjectId": 103
+        },
+        {
+          "subjectId": 7,
+          "subjectName": "English",
+          "isSelected": true,
+          "bgColor": "#99582a",
+          "affiliationSubjectId": 104
+        },
+        {
+          "subjectId": 6,
+          "subjectName": "Computers",
+          "isSelected": true,
+          "bgColor": "#dab785",
+          "affiliationSubjectId": 105
+        },
+        {
+          "subjectId": 20,
+          "subjectName": "Sanskrit",
+          "isSelected": false,
+          "bgColor": null,
+          "affiliationSubjectId": 0
+        }
+      ]
+    },
+    {
+      "affiliationCourseId": 26,
+      "courseId": 4,
+      "courseName": "11/12 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "subjectList": [
+        {
+          "subjectId": 1,
+          "subjectName": "Physics",
+          "isSelected": true,
+          "bgColor": "#2a9d8f",
+          "affiliationSubjectId": 107
+        },
+        {
+          "subjectId": 2,
+          "subjectName": "Maths",
+          "isSelected": true,
+          "bgColor": "#003566",
+          "affiliationSubjectId": 108
+        },
+        {
+          "subjectId": 3,
+          "subjectName": "Chemistry",
+          "isSelected": true,
+          "bgColor": "#ee6c4d",
+          "affiliationSubjectId": 109
+        },
+        {
+          "subjectId": 8,
+          "subjectName": "Biology",
+          "isSelected": true,
+          "bgColor": "#799ae0",
+          "affiliationSubjectId": 110
+        },
+        {
+          "subjectId": 7,
+          "subjectName": "English",
+          "isSelected": true,
+          "bgColor": "#99582a",
+          "affiliationSubjectId": 115
+        },
+        {
+          "subjectId": 6,
+          "subjectName": "Computers",
+          "isSelected": true,
+          "bgColor": "#dab785",
+          "affiliationSubjectId": 116
+        }
+      ]
+    },
+    {
+      "affiliationCourseId": 27,
+      "courseId": 6,
+      "courseName": "NEET",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/NEET.PNG",
+      "subjectList": [
+        {
+          "subjectId": 1,
+          "subjectName": "Physics",
+          "isSelected": true,
+          "bgColor": "#2a9d8f",
+          "affiliationSubjectId": 119
+        },
+        {
+          "subjectId": 3,
+          "subjectName": "Chemistry",
+          "isSelected": true,
+          "bgColor": "#ee6c4d",
+          "affiliationSubjectId": 120
+        },
+        {
+          "subjectId": 8,
+          "subjectName": "Biology",
+          "isSelected": true,
+          "bgColor": "#799ae0",
+          "affiliationSubjectId": 121
+        }
+      ]
+    },
+    {
+      "affiliationCourseId": 28,
+      "courseId": 7,
+      "courseName": "MHCET",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/MHCET.PNG",
+      "subjectList": [
+        {
+          "subjectId": 1,
+          "subjectName": "Physics",
+          "isSelected": true,
+          "bgColor": "#2a9d8f",
+          "affiliationSubjectId": 122
+        },
+        {
+          "subjectId": 2,
+          "subjectName": "Maths",
+          "isSelected": true,
+          "bgColor": "#003566",
+          "affiliationSubjectId": 123
+        },
+        {
+          "subjectId": 3,
+          "subjectName": "Chemistry",
+          "isSelected": true,
+          "bgColor": "#ee6c4d",
+          "affiliationSubjectId": 124
+        },
+        {
+          "subjectId": 8,
+          "subjectName": "Biology",
+          "isSelected": true,
+          "bgColor": "#799ae0",
+          "affiliationSubjectId": 7782
+        }
+      ]
+    },
+    {
+      "affiliationCourseId": 29,
+      "courseId": 9,
+      "courseName": "7/8 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "subjectList": [
+        {
+          "subjectId": 4,
+          "subjectName": "Science",
+          "isSelected": true,
+          "bgColor": "#8e9aaf",
+          "affiliationSubjectId": 125
+        },
+        {
+          "subjectId": 2,
+          "subjectName": "Maths",
+          "isSelected": true,
+          "bgColor": "#003566",
+          "affiliationSubjectId": 126
+        },
+        {
+          "subjectId": 11,
+          "subjectName": "Social Science",
+          "isSelected": true,
+          "bgColor": "#540d6e",
+          "affiliationSubjectId": 127
+        },
+        {
+          "subjectId": 14,
+          "subjectName": "Hindi",
+          "isSelected": true,
+          "bgColor": null,
+          "affiliationSubjectId": 128
+        },
+        {
+          "subjectId": 7,
+          "subjectName": "English",
+          "isSelected": true,
+          "bgColor": "#99582a",
+          "affiliationSubjectId": 129
+        },
+        {
+          "subjectId": 20,
+          "subjectName": "Sanskrit",
+          "isSelected": false,
+          "bgColor": null,
+          "affiliationSubjectId": 0
+        }
+      ]
+    },
+    {
+      "affiliationCourseId": 30,
+      "courseId": 10,
+      "courseName": "9/10 ICSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/ICSE.PNG",
+      "subjectList": [
+        {
+          "subjectId": 4,
+          "subjectName": "Science",
+          "isSelected": true,
+          "bgColor": "#8e9aaf",
+          "affiliationSubjectId": 131
+        },
+        {
+          "subjectId": 2,
+          "subjectName": "Maths",
+          "isSelected": true,
+          "bgColor": "#003566",
+          "affiliationSubjectId": 132
+        },
+        {
+          "subjectId": 10,
+          "subjectName": "Mental Ability",
+          "isSelected": true,
+          "bgColor": "#0288d1",
+          "affiliationSubjectId": 133
+        },
+        {
+          "subjectId": 11,
+          "subjectName": "Social Science",
+          "isSelected": true,
+          "bgColor": "#540d6e",
+          "affiliationSubjectId": 15829
+        }
+      ]
+    },
+    {
+      "affiliationCourseId": 31,
+      "courseId": 13,
+      "courseName": "7/8 ICSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/ICSE.PNG",
+      "subjectList": [
+        {
+          "subjectId": 4,
+          "subjectName": "Science",
+          "isSelected": true,
+          "bgColor": "#8e9aaf",
+          "affiliationSubjectId": 134
+        },
+        {
+          "subjectId": 2,
+          "subjectName": "Maths",
+          "isSelected": true,
+          "bgColor": "#003566",
+          "affiliationSubjectId": 135
+        },
+        {
+          "subjectId": 7,
+          "subjectName": "English",
+          "isSelected": true,
+          "bgColor": "#99582a",
+          "affiliationSubjectId": 15665
+        },
+        {
+          "subjectId": 11,
+          "subjectName": "Social Science",
+          "isSelected": true,
+          "bgColor": "#540d6e",
+          "affiliationSubjectId": 15746
+        }
+      ]
+    },
+    {
+      "affiliationCourseId": 32,
+      "courseId": 14,
+      "courseName": "7/8 Checkpoint",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/check_point12.PNG",
+      "subjectList": [
+        {
+          "subjectId": 4,
+          "subjectName": "Science",
+          "isSelected": true,
+          "bgColor": "#8e9aaf",
+          "affiliationSubjectId": 136
+        },
+        {
+          "subjectId": 2,
+          "subjectName": "Maths",
+          "isSelected": true,
+          "bgColor": "#003566",
+          "affiliationSubjectId": 137
+        },
+        {
+          "subjectId": 7,
+          "subjectName": "English",
+          "isSelected": true,
+          "bgColor": "#99582a",
+          "affiliationSubjectId": 16220
+        }
+      ]
+    },
+    {
+      "affiliationCourseId": 33,
+      "courseId": 15,
+      "courseName": "9/10 SSC",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/SSC.PNG",
+      "subjectList": [
+        {
+          "subjectId": 4,
+          "subjectName": "Science",
+          "isSelected": true,
+          "bgColor": "#8e9aaf",
+          "affiliationSubjectId": 138
+        },
+        {
+          "subjectId": 2,
+          "subjectName": "Maths",
+          "isSelected": true,
+          "bgColor": "#003566",
+          "affiliationSubjectId": 139
+        },
+        {
+          "subjectId": 11,
+          "subjectName": "Social Science",
+          "isSelected": true,
+          "bgColor": "#540d6e",
+          "affiliationSubjectId": 140
+        },
+        {
+          "subjectId": 14,
+          "subjectName": "Hindi",
+          "isSelected": true,
+          "bgColor": null,
+          "affiliationSubjectId": 141
+        },
+        {
+          "subjectId": 7,
+          "subjectName": "English",
+          "isSelected": true,
+          "bgColor": "#99582a",
+          "affiliationSubjectId": 142
+        },
+        {
+          "subjectId": 19,
+          "subjectName": "Marathi",
+          "isSelected": true,
+          "bgColor": "#0e6ba8",
+          "affiliationSubjectId": 143
+        },
+        {
+          "subjectId": 20,
+          "subjectName": "Sanskrit",
+          "isSelected": false,
+          "bgColor": null,
+          "affiliationSubjectId": 0
+        },
+        {
+          "subjectId": 10,
+          "subjectName": "Mental Ability",
+          "isSelected": true,
+          "bgColor": "#0288d1",
+          "affiliationSubjectId": 15582
+        }
+      ]
+    },
+    {
+      "affiliationCourseId": 34,
+      "courseId": 16,
+      "courseName": "IGCSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/IGCSE.PNG",
+      "subjectList": [
+        {
+          "subjectId": 2,
+          "subjectName": "Maths",
+          "isSelected": true,
+          "bgColor": "#003566",
+          "affiliationSubjectId": 145
+        },
+        {
+          "subjectId": 4,
+          "subjectName": "Science",
+          "isSelected": true,
+          "bgColor": "#8e9aaf",
+          "affiliationSubjectId": 146
+        },
+        {
+          "subjectId": 5,
+          "subjectName": "Economics",
+          "isSelected": true,
+          "bgColor": "#e05780",
+          "affiliationSubjectId": 147
+        }
+      ]
+    },
+    {
+      "affiliationCourseId": 35,
+      "courseId": 17,
+      "courseName": "11/12 HSC",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/HSC.PNG",
+      "subjectList": [
+        {
+          "subjectId": 1,
+          "subjectName": "Physics",
+          "isSelected": true,
+          "bgColor": "#2a9d8f",
+          "affiliationSubjectId": 148
+        },
+        {
+          "subjectId": 2,
+          "subjectName": "Maths",
+          "isSelected": true,
+          "bgColor": "#003566",
+          "affiliationSubjectId": 149
+        },
+        {
+          "subjectId": 3,
+          "subjectName": "Chemistry",
+          "isSelected": true,
+          "bgColor": "#ee6c4d",
+          "affiliationSubjectId": 150
+        },
+        {
+          "subjectId": 8,
+          "subjectName": "Biology",
+          "isSelected": true,
+          "bgColor": "#799ae0",
+          "affiliationSubjectId": 151
+        },
+        {
+          "subjectId": 7,
+          "subjectName": "English",
+          "isSelected": true,
+          "bgColor": "#99582a",
+          "affiliationSubjectId": 16139
+        }
+      ]
+    },
+    {
+      "affiliationCourseId": 36,
+      "courseId": 18,
+      "courseName": "11/12 ISC",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/ISC.PNG",
+      "subjectList": [
+        {
+          "subjectId": 3,
+          "subjectName": "Chemistry",
+          "isSelected": true,
+          "bgColor": "#ee6c4d",
+          "affiliationSubjectId": 152
+        },
+        {
+          "subjectId": 2,
+          "subjectName": "Maths",
+          "isSelected": true,
+          "bgColor": "#003566",
+          "affiliationSubjectId": 153
+        },
+        {
+          "subjectId": 1,
+          "subjectName": "Physics",
+          "isSelected": true,
+          "bgColor": "#2a9d8f",
+          "affiliationSubjectId": 154
+        },
+        {
+          "subjectId": 8,
+          "subjectName": "Biology",
+          "isSelected": true,
+          "bgColor": "#799ae0",
+          "affiliationSubjectId": 155
+        }
+      ]
+    },
+    {
+      "affiliationCourseId": 37,
+      "courseId": 20,
+      "courseName": "NTSE 10",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/NTSE.PNG",
+      "subjectList": [
+        {
+          "subjectId": 2,
+          "subjectName": "Maths",
+          "isSelected": true,
+          "bgColor": "#003566",
+          "affiliationSubjectId": 156
+        },
+        {
+          "subjectId": 4,
+          "subjectName": "Science",
+          "isSelected": false,
+          "bgColor": "#8e9aaf",
+          "affiliationSubjectId": 0
+        },
+        {
+          "subjectId": 10,
+          "subjectName": "Mental Ability",
+          "isSelected": false,
+          "bgColor": "#0288d1",
+          "affiliationSubjectId": 0
+        },
+        {
+          "subjectId": 11,
+          "subjectName": "Social Science",
+          "isSelected": true,
+          "bgColor": "#540d6e",
+          "affiliationSubjectId": 159
+        }
+      ]
+    },
+    {
+      "affiliationCourseId": 38,
+      "courseId": 24,
+      "courseName": "9/10 GSEB",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/GSEB.PNG",
+      "subjectList": [
+        {
+          "subjectId": 2,
+          "subjectName": "Maths",
+          "isSelected": false,
+          "bgColor": "#003566",
+          "affiliationSubjectId": 0
+        },
+        {
+          "subjectId": 4,
+          "subjectName": "Science",
+          "isSelected": false,
+          "bgColor": "#8e9aaf",
+          "affiliationSubjectId": 0
+        },
+        {
+          "subjectId": 10,
+          "subjectName": "Mental Ability",
+          "isSelected": true,
+          "bgColor": "#0288d1",
+          "affiliationSubjectId": 162
+        },
+        {
+          "subjectId": 7,
+          "subjectName": "English",
+          "isSelected": true,
+          "bgColor": "#99582a",
+          "affiliationSubjectId": 16237
+        }
+      ]
+    },
+    {
+      "affiliationCourseId": 40,
+      "courseId": 33,
+      "courseName": "6 CBSE ",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "subjectList": [
+        {
+          "subjectId": 4,
+          "subjectName": "Science",
+          "isSelected": true,
+          "bgColor": "#8e9aaf",
+          "affiliationSubjectId": 165
+        },
+        {
+          "subjectId": 2,
+          "subjectName": "Maths",
+          "isSelected": true,
+          "bgColor": "#003566",
+          "affiliationSubjectId": 166
+        },
+        {
+          "subjectId": 11,
+          "subjectName": "Social Science",
+          "isSelected": true,
+          "bgColor": "#540d6e",
+          "affiliationSubjectId": 167
+        },
+        {
+          "subjectId": 14,
+          "subjectName": "Hindi",
+          "isSelected": true,
+          "bgColor": null,
+          "affiliationSubjectId": 168
+        },
+        {
+          "subjectId": 7,
+          "subjectName": "English",
+          "isSelected": true,
+          "bgColor": "#99582a",
+          "affiliationSubjectId": 169
+        }
+      ]
+    },
+    {
+      "affiliationCourseId": 1180,
+      "courseId": 31,
+      "courseName": "7/8 CGBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CGBSE.PNG",
+      "subjectList": [
+        {
+          "subjectId": 2,
+          "subjectName": "Maths",
+          "isSelected": true,
+          "bgColor": "#003566",
+          "affiliationSubjectId": 7778
+        },
+        {
+          "subjectId": 4,
+          "subjectName": "Science",
+          "isSelected": true,
+          "bgColor": "#8e9aaf",
+          "affiliationSubjectId": 7779
+        }
+      ]
+    },
+    {
+      "affiliationCourseId": 1181,
+      "courseId": 27,
+      "courseName": "7/8 RBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/RBSE.PNG",
+      "subjectList": [
+        {
+          "subjectId": 2,
+          "subjectName": "Maths",
+          "isSelected": true,
+          "bgColor": "#003566",
+          "affiliationSubjectId": 7780
+        },
+        {
+          "subjectId": 2,
+          "subjectName": "Maths",
+          "isSelected": true,
+          "bgColor": "#003566",
+          "affiliationSubjectId": 7780
+        },
+        {
+          "subjectId": 4,
+          "subjectName": "Science",
+          "isSelected": false,
+          "bgColor": "#8e9aaf",
+          "affiliationSubjectId": 0
+        }
+      ]
+    },
+    {
+      "affiliationCourseId": 1634,
+      "courseId": 34,
+      "courseName": "6 ICSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "subjectList": [
+        {
+          "subjectId": 2,
+          "subjectName": "Maths",
+          "isSelected": true,
+          "bgColor": "#003566",
+          "affiliationSubjectId": 12735
+        },
+        {
+          "subjectId": 4,
+          "subjectName": "Science",
+          "isSelected": true,
+          "bgColor": "#8e9aaf",
+          "affiliationSubjectId": 12755
+        },
+        {
+          "subjectId": 7,
+          "subjectName": "English",
+          "isSelected": true,
+          "bgColor": "#99582a",
+          "affiliationSubjectId": 16091
+        },
+        {
+          "subjectId": 11,
+          "subjectName": "Social Science",
+          "isSelected": true,
+          "bgColor": "#540d6e",
+          "affiliationSubjectId": 16127
+        }
+      ]
+    },
+    {
+      "affiliationCourseId": 2448,
+      "courseId": 21,
+      "courseName": "9/10 Foundation",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/Foundation.PNG",
+      "subjectList": [
+        {
+          "subjectId": 2,
+          "subjectName": "Maths",
+          "isSelected": true,
+          "bgColor": "#003566",
+          "affiliationSubjectId": 11843
+        },
+        {
+          "subjectId": 4,
+          "subjectName": "Science",
+          "isSelected": true,
+          "bgColor": "#8e9aaf",
+          "affiliationSubjectId": 11846
+        },
+        {
+          "subjectId": 10,
+          "subjectName": "Mental Ability",
+          "isSelected": true,
+          "bgColor": "#0288d1",
+          "affiliationSubjectId": 11849
+        }
+      ]
+    },
+    {
+      "affiliationCourseId": 2801,
+      "courseId": 44,
+      "courseName": "9 CBSE-A",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/",
+      "subjectList": [
+        {
+          "subjectId": 4,
+          "subjectName": "Science",
+          "isSelected": true,
+          "bgColor": "#8e9aaf",
+          "affiliationSubjectId": 16814
+        },
+        {
+          "subjectId": 2,
+          "subjectName": "Maths",
+          "isSelected": true,
+          "bgColor": "#003566",
+          "affiliationSubjectId": 16813
+        },
+        {
+          "subjectId": 10,
+          "subjectName": "Mental Ability",
+          "isSelected": true,
+          "bgColor": "#0288d1",
+          "affiliationSubjectId": 16817
+        },
+        {
+          "subjectId": 11,
+          "subjectName": "Social Science",
+          "isSelected": true,
+          "bgColor": "#540d6e",
+          "affiliationSubjectId": 16818
+        },
+        {
+          "subjectId": 14,
+          "subjectName": "Hindi",
+          "isSelected": true,
+          "bgColor": null,
+          "affiliationSubjectId": 16812
+        },
+        {
+          "subjectId": 7,
+          "subjectName": "English",
+          "isSelected": true,
+          "bgColor": "#99582a",
+          "affiliationSubjectId": 16816
+        },
+        {
+          "subjectId": 6,
+          "subjectName": "Computers",
+          "isSelected": true,
+          "bgColor": "#dab785",
+          "affiliationSubjectId": 16815
+        },
+        {
+          "subjectId": 20,
+          "subjectName": "Sanskrit",
+          "isSelected": false,
+          "bgColor": null,
+          "affiliationSubjectId": 0
+        }
+      ]
+    }
+  ]
+}
