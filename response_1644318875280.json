@@ -1,0 +1,4243 @@
+{
+  "version": "0.0.1",
+  "statusCode": 200,
+  "errorCode": -1,
+  "errorMessage": null,
+  "successMessage": null,
+  "data": [
+    {
+      "batchId": 11,
+      "batchName": "SpeedLabs Powai ",
+      "courseName": "IGCSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/IGCSE.PNG",
+      "affiliationCourseId": 34,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#FBDE5A",
+      "batchSize": 25,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 119,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": "Dummy Faculty",
+          "facultyId": 5083,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 120,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": "Abhay Jathar",
+          "facultyId": 811,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Biology",
+          "affiliationSubjectId": 121,
+          "subjectId": 8,
+          "bgColor": "#799ae0",
+          "facultyName": "Dummy Faculty",
+          "facultyId": 5083,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 145,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 146,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Economics",
+          "affiliationSubjectId": 147,
+          "subjectId": 5,
+          "bgColor": "#e05780",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 14,
+      "batchName": "Speed Labs Bhopal",
+      "courseName": "7/8 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 29,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#CFD4E9",
+      "batchSize": 0,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 125,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 126,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 127,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 128,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 129,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 15,
+      "batchName": "Speed Labs Indore",
+      "courseName": "9/10 SSC",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/SSC.PNG",
+      "affiliationCourseId": 33,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#C7D9C4",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 138,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 139,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 140,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 141,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 142,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Marathi",
+          "affiliationSubjectId": 143,
+          "subjectId": 19,
+          "bgColor": "#0e6ba8",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 15582,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 42,
+      "batchName": "Trial Bhopal",
+      "courseName": "11/12 HSC",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/HSC.PNG",
+      "affiliationCourseId": 35,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#DE904C",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 148,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 149,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 150,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Biology",
+          "affiliationSubjectId": 151,
+          "subjectId": 8,
+          "bgColor": "#799ae0",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 16139,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 45,
+      "batchName": "SpeedLabs Kota",
+      "courseName": "JEE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/JEE.PNG",
+      "affiliationCourseId": 24,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#D08297",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 96,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": "Abhay Jathar",
+          "facultyId": 811,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 97,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 98,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 46,
+      "batchName": "SpeedLabs Chandigarh",
+      "courseName": "9/10 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 25,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#DE904C",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 99,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 100,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 101,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 102,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 103,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 104,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 105,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 51,
+      "batchName": "Speedlabs Navi Mumbai",
+      "courseName": "JEE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/JEE.PNG",
+      "affiliationCourseId": 24,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#DE904C",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 96,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 97,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 98,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 303,
+      "batchName": "SpeedLabs Ahmedabad",
+      "courseName": "9/10 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 25,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#AF99CF",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 99,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 100,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 101,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 102,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 103,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 104,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 105,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 313,
+      "batchName": "SpeedLabs UP",
+      "courseName": "9/10 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 25,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#AEB9E1",
+      "batchSize": 0,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 99,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 100,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 101,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 102,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 103,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 104,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 105,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 148,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 149,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 150,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Biology",
+          "affiliationSubjectId": 151,
+          "subjectId": 8,
+          "bgColor": "#799ae0",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 376,
+      "batchName": "SL JEE20",
+      "courseName": "JEE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/JEE.PNG",
+      "affiliationCourseId": 24,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#AF99CF",
+      "batchSize": 7,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 96,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": "Animesh",
+          "facultyId": 38,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 97,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": false
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 98,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": false
+        }
+      ]
+    },
+    {
+      "batchId": 377,
+      "batchName": "SL JEE21",
+      "courseName": "JEE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/JEE.PNG",
+      "affiliationCourseId": 24,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#FBDE5A",
+      "batchSize": 20,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 96,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 97,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": "Abhay Jathar",
+          "facultyId": 811,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 98,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": "Faculty  SpeedLabs",
+          "facultyId": 41107,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 378,
+      "batchName": "SL JEE22",
+      "courseName": "JEE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/JEE.PNG",
+      "affiliationCourseId": 24,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#AF99CF",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 96,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 97,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 98,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 379,
+      "batchName": "SB",
+      "courseName": "9/10 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 25,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#DE904C",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 99,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 100,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 101,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 102,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 103,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 104,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 105,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 413,
+      "batchName": "SL Demo ",
+      "courseName": "JEE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/JEE.PNG",
+      "affiliationCourseId": 24,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#AEB9E1",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 96,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 97,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 98,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 661,
+      "batchName": "SL CBSE 10",
+      "courseName": "9/10 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 25,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#AEB9E1",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 99,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 100,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 101,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 102,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 103,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 104,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 105,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 662,
+      "batchName": "SL CBSE 8",
+      "courseName": "7/8 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 29,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#EED7C5",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 125,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 126,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 127,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 128,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 129,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 663,
+      "batchName": "SL CBSE 7",
+      "courseName": "7/8 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 29,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#DE904C",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 125,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 126,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 127,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 128,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 129,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 664,
+      "batchName": "SL ICSE 8",
+      "courseName": "7/8 ICSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/ICSE.PNG",
+      "affiliationCourseId": 31,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#AEB9E1",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 134,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 135,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 15665,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 15746,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 666,
+      "batchName": "SL ICSE 9",
+      "courseName": "9/10 ICSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/ICSE.PNG",
+      "affiliationCourseId": 30,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#BBD13F",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 131,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 132,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 133,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 15829,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 667,
+      "batchName": "SL ICSE 10",
+      "courseName": "9/10 ICSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/ICSE.PNG",
+      "affiliationCourseId": 30,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#FBDE5A",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 131,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 132,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 133,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 15829,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 669,
+      "batchName": "CBSE 10 PP",
+      "courseName": "9/10 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 25,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#FBDE5A",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 99,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 100,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 101,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 102,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 103,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 104,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 105,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 670,
+      "batchName": "CBSE 10 CC",
+      "courseName": "9/10 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 25,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#DE904C",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 99,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 100,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 101,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 102,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 103,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 104,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 105,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 671,
+      "batchName": "CBSE 10 HP",
+      "courseName": "9/10 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 25,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#FBDE5A",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 99,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 100,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 101,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 102,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 103,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 104,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 105,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 672,
+      "batchName": "CBSE 10 LH",
+      "courseName": "9/10 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 25,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#EED7C5",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 99,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 100,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 101,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 102,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 103,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 104,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 105,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 673,
+      "batchName": "CBSE 9 HP",
+      "courseName": "9/10 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 25,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#E3BBA2",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 99,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 100,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 101,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 102,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 103,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 104,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 105,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 674,
+      "batchName": "CBSE 9 LH",
+      "courseName": "9/10 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 25,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#AEB9E1",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 99,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 100,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 101,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 102,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 103,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 104,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 105,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 675,
+      "batchName": "CBSE 9 PP",
+      "courseName": "9/10 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 25,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#EED7C5",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 99,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 100,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 101,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 102,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 103,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 104,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 105,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 677,
+      "batchName": "CBSE 8 LH",
+      "courseName": "7/8 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 29,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#E3BBA2",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 125,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 126,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": "Faculty  SpeedLabs",
+          "facultyId": 41107,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 127,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 128,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 129,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 679,
+      "batchName": "CBSE 8 PP",
+      "courseName": "7/8 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 29,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#FBDE5A",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 125,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 126,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 127,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 128,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 129,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 681,
+      "batchName": "ICSE 10 LH",
+      "courseName": "9/10 ICSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/ICSE.PNG",
+      "affiliationCourseId": 30,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#D08297",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 131,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 132,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 133,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 15829,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 683,
+      "batchName": "ICSE 9 CC",
+      "courseName": "9/10 ICSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/ICSE.PNG",
+      "affiliationCourseId": 30,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#E3BBA2",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 131,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 132,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 133,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 15829,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 684,
+      "batchName": "ICSE 9 CC",
+      "courseName": "9/10 ICSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/ICSE.PNG",
+      "affiliationCourseId": 30,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#CFD4E9",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 131,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 132,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 133,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 15829,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 685,
+      "batchName": "ICSE 9 PP",
+      "courseName": "9/10 ICSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/ICSE.PNG",
+      "affiliationCourseId": 30,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#CFD4E9",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 131,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 132,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 133,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 15829,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 686,
+      "batchName": "ICSE 7 PP",
+      "courseName": "7/8 ICSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/ICSE.PNG",
+      "affiliationCourseId": 31,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#AF99CF",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 134,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 135,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 15665,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 15746,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 687,
+      "batchName": "ICSE 10 CC",
+      "courseName": "9/10 ICSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/ICSE.PNG",
+      "affiliationCourseId": 30,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#CFD4E9",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 131,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 132,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 133,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 15829,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 688,
+      "batchName": "ICSE 8 CC",
+      "courseName": "7/8 ICSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/ICSE.PNG",
+      "affiliationCourseId": 31,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#FBDE5A",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 134,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 135,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 15665,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 15746,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 700,
+      "batchName": "ICSE 9 LH",
+      "courseName": "9/10 ICSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/ICSE.PNG",
+      "affiliationCourseId": 30,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#FBDE5A",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 131,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 132,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 133,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 15829,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 701,
+      "batchName": "ICSE 8 LH",
+      "courseName": "7/8 ICSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/ICSE.PNG",
+      "affiliationCourseId": 31,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#CFD4E9",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 134,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 135,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 15665,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 15746,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 702,
+      "batchName": "CBSE 11 PP",
+      "courseName": "11/12 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 26,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#CFD4E9",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 107,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 108,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 109,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Biology",
+          "affiliationSubjectId": 110,
+          "subjectId": 8,
+          "bgColor": "#799ae0",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 115,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 116,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 703,
+      "batchName": "CBSE 12 PP",
+      "courseName": "11/12 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 26,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#BBD13F",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 107,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 108,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 109,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Biology",
+          "affiliationSubjectId": 110,
+          "subjectId": 8,
+          "bgColor": "#799ae0",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 115,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 116,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 706,
+      "batchName": "Foundation 10 HP",
+      "courseName": "9/10 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 25,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#AEB9E1",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 99,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 100,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 101,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 102,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 103,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 104,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 105,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 710,
+      "batchName": "Foundation 9 HP",
+      "courseName": "9/10 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 25,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#E3BBA2",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 99,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 100,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 101,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 102,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 103,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 104,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 105,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 714,
+      "batchName": "ICSE 9 Seawoods",
+      "courseName": "9/10 ICSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/ICSE.PNG",
+      "affiliationCourseId": 30,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#CFD4E9",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 131,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 132,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 133,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 15829,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 715,
+      "batchName": "ICSE 10 Seawoods",
+      "courseName": "9/10 ICSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/ICSE.PNG",
+      "affiliationCourseId": 30,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#AF99CF",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 131,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 132,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 133,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 15829,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 716,
+      "batchName": "CBSE 9 Seawoods",
+      "courseName": "9/10 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 25,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#FBDE5A",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 99,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 100,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 101,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 102,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 103,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 104,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 105,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 972,
+      "batchName": "SL JEE 2022 ",
+      "courseName": "JEE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/JEE.PNG",
+      "affiliationCourseId": 24,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#D08297",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 96,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": "Dummy Faculty",
+          "facultyId": 5083,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 97,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": "Piyush Faculty",
+          "facultyId": 33472,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 98,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": "Dummy Faculty",
+          "facultyId": 5083,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 1515,
+      "batchName": "Speed JEE",
+      "courseName": "JEE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/JEE.PNG",
+      "affiliationCourseId": 24,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#DE904C",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 96,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 97,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 98,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 1516,
+      "batchName": "Speed ISC",
+      "courseName": "11/12 ISC",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/ISC.PNG",
+      "affiliationCourseId": 36,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#C7D9C4",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 152,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 153,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 154,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Biology",
+          "affiliationSubjectId": 155,
+          "subjectId": 8,
+          "bgColor": "#799ae0",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 1517,
+      "batchName": "Speed NEET",
+      "courseName": "NEET",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/NEET.PNG",
+      "affiliationCourseId": 27,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#BBD13F",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 119,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 120,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": "Animesh Sir",
+          "facultyId": 141,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Biology",
+          "affiliationSubjectId": 121,
+          "subjectId": 8,
+          "bgColor": "#799ae0",
+          "facultyName": "Yogesh G. Shelke",
+          "facultyId": 504,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 1518,
+      "batchName": "Speed CB11",
+      "courseName": "11/12 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 26,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#E3BBA2",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 107,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 108,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 109,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Biology",
+          "affiliationSubjectId": 110,
+          "subjectId": 8,
+          "bgColor": "#799ae0",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 115,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 116,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 1519,
+      "batchName": "Speed CB9",
+      "courseName": "9/10 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 25,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#FBDE5A",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 99,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 100,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 101,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 102,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 103,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 104,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 105,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 1520,
+      "batchName": "Speed CB7",
+      "courseName": "7/8 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 29,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#D08297",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 125,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 126,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 127,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 128,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 129,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 1521,
+      "batchName": "Speed CB6",
+      "courseName": "6 CBSE ",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 40,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#CFD4E9",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 165,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 166,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 167,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 168,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 169,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 1522,
+      "batchName": "Speed IC9",
+      "courseName": "9/10 ICSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/ICSE.PNG",
+      "affiliationCourseId": 30,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#FBDE5A",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 131,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 132,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 133,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 15829,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 1523,
+      "batchName": "Speed IC7",
+      "courseName": "7/8 ICSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/ICSE.PNG",
+      "affiliationCourseId": 31,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#FBDE5A",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 134,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 135,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 15665,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 15746,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 1524,
+      "batchName": "Speed IC6",
+      "courseName": "6 ICSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 1634,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#BBD13F",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 12735,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 12755,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 16091,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 16127,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 1525,
+      "batchName": "Speed MHCET",
+      "courseName": "MHCET",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/MHCET.PNG",
+      "affiliationCourseId": 28,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#C7D9C4",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 122,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 123,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 124,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Biology",
+          "affiliationSubjectId": 7782,
+          "subjectId": 8,
+          "bgColor": "#799ae0",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 1526,
+      "batchName": "Speed IGCSE",
+      "courseName": "IGCSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/IGCSE.PNG",
+      "affiliationCourseId": 34,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#EED7C5",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 145,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 146,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Economics",
+          "affiliationSubjectId": 147,
+          "subjectId": 5,
+          "bgColor": "#e05780",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 1527,
+      "batchName": "Speed checkpoint",
+      "courseName": "7/8 Checkpoint",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/check_point12.PNG",
+      "affiliationCourseId": 32,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#FBDE5A",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 136,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 137,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 16220,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 1529,
+      "batchName": "Speed HSC 11",
+      "courseName": "11/12 HSC",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/HSC.PNG",
+      "affiliationCourseId": 35,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#BBD13F",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 148,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 149,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 150,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Biology",
+          "affiliationSubjectId": 151,
+          "subjectId": 8,
+          "bgColor": "#799ae0",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 16139,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 1530,
+      "batchName": "Speed SSC9",
+      "courseName": "9/10 SSC",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/SSC.PNG",
+      "affiliationCourseId": 33,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#AF99CF",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 96,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 97,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 98,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 138,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 139,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 140,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 141,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 142,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Marathi",
+          "affiliationSubjectId": 143,
+          "subjectId": 19,
+          "bgColor": "#0e6ba8",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 15582,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": false
+        }
+      ]
+    },
+    {
+      "batchId": 1531,
+      "batchName": "Speed NTSE",
+      "courseName": "NTSE 10",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/NTSE.PNG",
+      "affiliationCourseId": 37,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#C7D9C4",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 156,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 159,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 1532,
+      "batchName": "Speed GSe 9",
+      "courseName": "9/10 GSEB",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/GSEB.PNG",
+      "affiliationCourseId": 38,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#C7D9C4",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 162,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 16237,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 2034,
+      "batchName": "SL Testing 9/10  ",
+      "courseName": "9/10 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 25,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#CFD4E9",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 99,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 100,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 101,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 102,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 103,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 104,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 105,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 2205,
+      "batchName": "New Batch",
+      "courseName": "9/10 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 25,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#BBD13F",
+      "batchSize": 120,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 99,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 100,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 101,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 102,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 103,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 104,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 105,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 2347,
+      "batchName": "batch 12",
+      "courseName": "11/12 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 26,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#AEB9E1",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 107,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 108,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 109,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Biology",
+          "affiliationSubjectId": 110,
+          "subjectId": 8,
+          "bgColor": "#799ae0",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 115,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 116,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 3535,
+      "batchName": "Speed  IC 11",
+      "courseName": "11/12 ISC",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/ISC.PNG",
+      "affiliationCourseId": 36,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#AF99CF",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 152,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 153,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 154,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Biology",
+          "affiliationSubjectId": 155,
+          "subjectId": 8,
+          "bgColor": "#799ae0",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 3536,
+      "batchName": "Speed  IC 12",
+      "courseName": "11/12 ISC",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/ISC.PNG",
+      "affiliationCourseId": 36,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#EED7C5",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 152,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 153,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 154,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Biology",
+          "affiliationSubjectId": 155,
+          "subjectId": 8,
+          "bgColor": "#799ae0",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 3663,
+      "batchName": "SL NEET 2022",
+      "courseName": "NEET",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/NEET.PNG",
+      "affiliationCourseId": 27,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#D08297",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 119,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 120,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Biology",
+          "affiliationSubjectId": 121,
+          "subjectId": 8,
+          "bgColor": "#799ae0",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 3664,
+      "batchName": "SL CBSE 11 2021",
+      "courseName": "11/12 CBSE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/CBSE.PNG",
+      "affiliationCourseId": 26,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#AF99CF",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 107,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 108,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 109,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Biology",
+          "affiliationSubjectId": 110,
+          "subjectId": 8,
+          "bgColor": "#799ae0",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 115,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 116,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 3766,
+      "batchName": "Test ",
+      "courseName": "NEET",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/NEET.PNG",
+      "affiliationCourseId": 27,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#AEB9E1",
+      "batchSize": 20,
+      "batchExpiryDate": "2022-03-31T18:30:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 119,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 120,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Biology",
+          "affiliationSubjectId": 121,
+          "subjectId": 8,
+          "bgColor": "#799ae0",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 4077,
+      "batchName": "Test JEE",
+      "courseName": "JEE",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Course/JEE.PNG",
+      "affiliationCourseId": 24,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#DE904C",
+      "batchSize": 50,
+      "batchExpiryDate": "2022-05-04T17:56:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Physics",
+          "affiliationSubjectId": 96,
+          "subjectId": 1,
+          "bgColor": "#2a9d8f",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 97,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Chemistry",
+          "affiliationSubjectId": 98,
+          "subjectId": 3,
+          "bgColor": "#ee6c4d",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    },
+    {
+      "batchId": 4081,
+      "batchName": "CBSE 9 A",
+      "courseName": "9 CBSE-A",
+      "courseIconUrl": "https://questionkscimagestorage.blob.core.windows.net/",
+      "affiliationCourseId": 2801,
+      "batchIconUrl": "https://questionkscimagestorage.blob.core.windows.net/dataimages/Icons_Images/Batch.PNG",
+      "batchIconBgColor": "#AEB9E1",
+      "batchSize": 0,
+      "batchExpiryDate": "2023-02-10T14:41:00",
+      "subjectDetailsList": [
+        {
+          "subjectName": "Hindi",
+          "affiliationSubjectId": 16812,
+          "subjectId": 14,
+          "bgColor": null,
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Maths",
+          "affiliationSubjectId": 16813,
+          "subjectId": 2,
+          "bgColor": "#003566",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Science",
+          "affiliationSubjectId": 16814,
+          "subjectId": 4,
+          "bgColor": "#8e9aaf",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Computers",
+          "affiliationSubjectId": 16815,
+          "subjectId": 6,
+          "bgColor": "#dab785",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "English",
+          "affiliationSubjectId": 16816,
+          "subjectId": 7,
+          "bgColor": "#99582a",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Mental Ability",
+          "affiliationSubjectId": 16817,
+          "subjectId": 10,
+          "bgColor": "#0288d1",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        },
+        {
+          "subjectName": "Social Science",
+          "affiliationSubjectId": 16818,
+          "subjectId": 11,
+          "bgColor": "#540d6e",
+          "facultyName": null,
+          "facultyId": 0,
+          "isSelected": true
+        }
+      ]
+    }
+  ]
+}
